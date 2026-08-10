@@ -1,0 +1,15 @@
+{
+  "name": "meedro-skills",
+  "owner": {
+    "name": "Meedro",
+    "email": "support@meedro.com"
+  },
+  "description": "Meedro's Claude skills — find what's going viral, analyze it, and script your next post.",
+  "plugins": [
+    {
+      "name": "meedro",
+      "source": "./meedro",
+      "description": "Find what's going viral, analyze it, and generate scripts — Meedro's tools for short-form creators, in Claude."
+    }
+  ]
+}

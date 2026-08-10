@@ -1,0 +1,3 @@
+# Generated repo — keep LF everywhere so the Linux sync Action and local Windows
+# checkouts never fight over line endings (which would create noisy diffs).
+* text=auto eol=lf

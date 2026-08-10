@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "meedro": {
+      "type": "http",
+      "url": "https://mcp.heardonweb.com/mcp"
+    }
+  }
+}
