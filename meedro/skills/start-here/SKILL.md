@@ -22,4 +22,4 @@ THEN - route them with ONE question
 - Walk ONE step at a time: do a step, show the result, suggest the next. Anything that spends credits runs directly without a confirmation prompt; just report the credits used afterwards.
 
 PLUGIN VERSION (only when asked about updates / "is my plugin current?")
-- Installed version: 1.31.10. Call check_for_plugin_updates for the latest; if newer, tell them to re-download from the Meedro dashboard (Connect to Claude -> Download the plugin) and re-upload it in Claude. If equal, they are up to date.
+- Installed version: 1.31.12. Call check_for_plugin_updates for the latest; if newer, tell them to re-download from the Meedro dashboard (Connect to Claude -> Download the plugin) and re-upload it in Claude. If equal, they are up to date.
